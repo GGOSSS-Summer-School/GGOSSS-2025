@@ -1,4 +1,4 @@
-# The first edition of the GGOSSS (Cameroon, Aug 25-29, 2025)
+# The first edition of the GGOSSS (Cameroon, 2025)
 
 <div align=justify>
   
