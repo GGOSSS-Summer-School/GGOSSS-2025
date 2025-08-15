@@ -2,6 +2,6 @@
 
 <div align=justify>
   
-Here will be placed, all script/notebook to download data from CMEMS (Copernicus Marine and Environmental Service) platform
+Here will be placed, all script/notebook to download data from CMEMS (Copernicus Marine and Environmental Service) platform. [by Dr. A. Nathanael Dossa]
 
 </div>
